@@ -1,0 +1,9 @@
+git clone ( url )
+
+git status
+
+git add .
+
+git commit -m" file name addition"
+
+git push origin main
